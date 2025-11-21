@@ -1,12 +1,6 @@
 Vault Radio - Korean Modified Version
 
 
-<div align="center">
-한국어 | English
-</div>
-
-한국어
-
 # 이 프로젝트에 대해
 
 이 플러그인은 Laevin님의 Vault Radio를 기반으로 한국 사용자를 위해 수정한 버전입니다. 
@@ -37,38 +31,6 @@ FLAC, MP3, WAV, M4A, OGG 등 Obsidian이 지원하는 모든 오디오 형식
 여러 폴더 관리
 즐겨찾기 목록
 드래그 앤 드롭으로 문서 삽입
-
-
-English
-
-# About This Project
-This plugin is a Korean-modified version based on Vault Radio by Laevin. Thanks to the original author for the excellent open-source plugin.
-
-## Modifications
-
-✅ Korean UI Translation - Interface messages in Korean
-
-✅ Header Icon Position Adjustment - Better layout
-
-✅ Volume Control Added - Fine-grained volume control
-
-## Installation
-
-Download the latest version from Releases
-Create .obsidian/plugins/vault-radio/ folder in your Obsidian vault
-Copy downloaded files to that folder
-Restart Obsidian and enable in Settings > Community plugins
-
-## Supported Formats
-FLAC, MP3, WAV, M4A, OGG - All audio formats supported by Obsidian
-
-## Key Features
-
-Status bar music player
-Multi-folder management
-Favorites list
-Drag and drop to insert into documents
-
 
 ## License
 MIT License - Same as the original

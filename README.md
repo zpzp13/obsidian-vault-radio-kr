@@ -9,7 +9,9 @@ Vault Radio - Korean Modified Version
 
 # 이 프로젝트에 대해
 
-이 플러그인은 Laevin님의 Vault Radio를 기반으로 한국 사용자를 위해 수정한 버전입니다. 훌륭한 오픈소스 플러그인을 제공해주신 원작자님께 감사드립니다.
+이 플러그인은 Laevin님의 Vault Radio를 기반으로 한국 사용자를 위해 수정한 버전입니다. 
+
+훌륭한 오픈소스 플러그인을 제공해주신 원작자님께 감사드립니다.
 
 ## 수정 사항
 
@@ -45,7 +47,9 @@ This plugin is a Korean-modified version based on Vault Radio by Laevin. Thanks 
 ## Modifications
 
 ✅ Korean UI Translation - Interface messages in Korean
+
 ✅ Header Icon Position Adjustment - Better layout
+
 ✅ Volume Control Added - Fine-grained volume control
 
 ## Installation

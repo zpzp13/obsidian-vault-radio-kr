@@ -40,7 +40,7 @@ Original Author: Laevin
 
 Original Repository: https://github.com/Laevin/obsidian-vault-radio
 
-Modified by: Korean User (2025)
+Modified by: zpzp13
 
 **Credits**
 Original plugin created by Laevin

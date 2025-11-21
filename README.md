@@ -33,9 +33,13 @@ FLAC, MP3, WAV, M4A, OGG 등 Obsidian이 지원하는 모든 오디오 형식
 드래그 앤 드롭으로 문서 삽입
 
 ## License
+
 MIT License - Same as the original
+
 Original Author: Laevin
+
 Original Repository: https://github.com/Laevin/obsidian-vault-radio
+
 Modified by: Korean User (2025)
 
 **Credits**
